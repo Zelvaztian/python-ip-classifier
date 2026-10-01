@@ -32,4 +32,4 @@ python identificador_de_IPs.py
 - Clasificación según rangos de red.
 ## Autor
 
-Zelvastian
+Zelvaztian
